@@ -1,4 +1,3 @@
 # python-zabbix
 --rebase
---rebase2
---rebase3
+test rebase commit 2
